@@ -1,0 +1,11 @@
+lpush key val..
+lrange key start end 
+lpop key 
+rpush key val
+rpop key 
+lset key index val  
+llen key 
+lindex key index 
+lrange key str -1
+lpushx key val...
+linsert key before/after pivot val 

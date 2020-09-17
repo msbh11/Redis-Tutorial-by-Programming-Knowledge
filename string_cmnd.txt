@@ -1,0 +1,8 @@
+****String Command*********
+set key value 
+gey key 
+setex 
+ttl key 
+setnx 
+keys * 
+strlen key 

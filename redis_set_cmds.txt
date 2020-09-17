@@ -1,0 +1,11 @@
+sadd key member
+smembers key 
+scard key 
+sdiff key1 key2 
+sdiffstore key3 key1 key2 
+sunion key1 key2 
+sunionstore key4 key1 key2
+srem key mem
+spop key count
+sinter key1 key2
+smove source dest member

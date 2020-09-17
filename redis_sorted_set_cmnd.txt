@@ -1,0 +1,4 @@
+zadd key score val ...
+zcard key 
+zrange key start end 
+zcount key min max 

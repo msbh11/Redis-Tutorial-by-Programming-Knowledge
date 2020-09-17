@@ -1,0 +1,7 @@
+mset key value 
+psetex 
+decr key 
+incr key  
+incrby key 
+decrby key 
+append key value

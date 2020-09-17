@@ -1,0 +1,11 @@
+hmset [..key ..field ..value]
+hget key [not works]
+hget key field 
+hgetall key 
+hexists key field
+hsetnx key value 
+hkeys key 
+hvals key 
+hincrby key fld [incrval] 
+hlen key 
+hmget key fld 
